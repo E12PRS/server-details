@@ -38,6 +38,7 @@ For the rest of the document
 
 [Coord Finder](https://modrinth.com/mod/coord-finder) by Max Henkel
 > **Currently Outdated**
+> 
 > *Save coordinates as waypoints for the server and share player coordinates. Do **/coords xxx** to use*
 
 [Emotecraft](https://modrinth.com/mod/pZ2wrerK) by KosmX, dima_dencep
@@ -107,6 +108,7 @@ For the rest of the document
 
 [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
 > **Currently Outdated**
+> 
 > *Adds filtering and searching to the controls screen*
 
 [Emotecraft](https://modrinth.com/mod/pZ2wrerK) by KosmX, dima_dencep
@@ -175,6 +177,7 @@ For the rest of the document
 
 [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 > **Currently Outdated**
+> 
 > *Adds a search bar and better sorting features to the Video Settings page when used with the Sodium mod*
 
 [Scribble](https://modrinth.com/mod/yXAvIk0x) by chrrrs
