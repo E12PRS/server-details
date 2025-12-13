@@ -14,9 +14,11 @@
 ## Introduction
 
 Server is hosted by CloudNord.net
+
 Server IP:
 > TBD
 
+For the rest of the document
 > *Text like this is a short explination of the thing above*
 
 [Back to Top](#contents)
@@ -24,7 +26,6 @@ Server IP:
 <a name="Mods"></a>
 
 ## Mods
-> *Text in a box like this is a short explination of what the mod does/why it's included*
 
 <a name="serverMods"></a>
 
