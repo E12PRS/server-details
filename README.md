@@ -2,12 +2,12 @@
 <a name="contents"></a>
 
 ## Table of Contents
-1. [Introduction]("introduction")
-1. [Mods]("mods")
-    1. [Server Side]("serverMods")
-    1. [Client Side]("clientMods")
-1. [Data Packs]("dataPacks")
-1. [Resource Packs]("resourcePacks")
+1. [Introduction](#introduction)
+1. [Mods](#mods)
+    1. [Server Side](#serverMods)
+    1. [Client Side](#clientMods)
+1. [Data Packs](#dataPacks)
+1. [Resource Packs](#resourcePacks)
 
 <a name="intro"></a>
 
@@ -19,7 +19,7 @@ Server IP:
 
 > *Text like this is a short explination of the thing above*
 
-[Back to Top]("contents")
+[Back to Top](#contents)
 
 <a name="Mods"></a>
 
@@ -69,7 +69,7 @@ Server IP:
 [View Distance Fix](https://modrinth.com/mod/view-distance-fix) by Max Henkel
 > *Fixes the fog that servers display when the server's render distance is lower than the client's*
 
-[Back to Top]("contents")
+[Back to Top](#contents)
 
 <a name="clientMods"></a>
 
@@ -200,7 +200,7 @@ Server IP:
 [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 > *Library Mod used for many things*
 
-[Back to Top]("contents")
+[Back to Top](#contents)
 
 <a name="dataPacks"></a>
 
@@ -263,7 +263,7 @@ More Bark / Bricks
 Unpackable Ice / Nether Wart
 > *Resource conversion that should be in vanilla*
 
-[Back to Top]("contents")
+[Back to Top](#contents)
 
 <a name="resourcePacks"></a>
 
@@ -272,4 +272,4 @@ I highly recommend picking out things you want from [VanillaTweaks](vanillatweak
 
 Make sure you enable the ItemSwapper mod resource pack. The Sorting mod and Voice Chat mod resource packs are optional.
 
-[Back to Top]("contents")
+[Back to Top](#contents)
