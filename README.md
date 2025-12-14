@@ -13,10 +13,7 @@
 
 ## Introduction
 
-Server is hosted by CloudNord.net
-
-Server IP:
-> TBD
+Server is hosted by CloudNord.net. Check Discord pins for Server IP.
 
 For the rest of the document
 > *Text like this is a short explination of the thing above*
@@ -26,6 +23,8 @@ For the rest of the document
 <a name="Mods"></a>
 
 ## Mods
+
+**Don't forget to keep your mods up to date!**
 
 <a name="serverMods"></a>
 
