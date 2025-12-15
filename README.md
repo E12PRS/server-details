@@ -175,8 +175,6 @@ For the rest of the document
 > *Fixes the hotbar clipping on the bottom of the screen. Also allows you to adjust the postion of most HUD elements if desired*
 
 [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
-> **Currently Outdated**
-> 
 > *Adds a search bar and better sorting features to the Video Settings page when used with the Sodium mod*
 
 [Scribble](https://modrinth.com/mod/yXAvIk0x) by chrrrs
